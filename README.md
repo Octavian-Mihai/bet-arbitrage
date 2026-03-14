@@ -53,54 +53,18 @@ If profit is positive, the bet is an **arbitrage opportunity**.
 
 ## Usage
 
-1. Open the HTML file in your browser:
+1. Enter the **odds** for the first bet.
 
-```
-bet_mobile_v4.html
-```
+2. Click **+ Add Bet** to add additional betting lines.
 
-2. Enter the **odds** for the first bet.
+3. Click **Calculate**.
 
-3. Click **+ Add Bet** to add additional betting lines.
-
-4. Click **Calculate**.
-
-5. The results will display:
+4. The results will display:
 
    * Stake per line
    * Potential payout
    * Total stake
    * Guaranteed profit/loss
-
----
-
-## Technologies Used
-
-* HTML5
-* Vanilla JavaScript
-* Tailwind CSS
-
-Tailwind is loaded via CDN:
-
-```
-https://cdn.tailwindcss.com
-```
-
-No installation or build process is required.
-
----
-
-## Project Structure
-
-```
-bet_mobile_v4.html
-```
-
-This is a **single-file application** containing:
-
-* UI layout
-* styling
-* calculation logic
 
 ---
 
